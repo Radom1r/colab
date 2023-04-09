@@ -1,3 +1,1 @@
 # Collaboration
-
-Open folder
